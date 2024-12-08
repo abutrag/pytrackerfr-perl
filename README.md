@@ -59,4 +59,3 @@ Les contributions sont les bienvenues. N'hésitez pas à soumettre des PRs pour 
 ## Licence
 
 Ce projet est sous licence MIT.
-```
